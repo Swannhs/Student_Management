@@ -164,6 +164,7 @@ public class Test extends JFrame implements ActionListener {
 		});
 	}
 
+	// Main
 	public static void main(String[] args) {
 		Test frame = new Test();
 		frame.setVisible(true);
